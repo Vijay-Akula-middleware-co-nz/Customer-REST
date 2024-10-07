@@ -1,7 +1,7 @@
 {
   "name": "customer-rest-sqlite",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "mocha './src/test/*test.js'",
     "start": "node ./server.js"
